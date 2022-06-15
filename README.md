@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @JasielCh
-- 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JasielCh/JasielCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm @JasielCh, a Web Developer & UI/UX Designer, with a strong knowledge of HTML5, CSS3, JavaScript, and WordPress. I consider myself a responsible and dynamic person with good abilities to work in a team and capable of solving problems. I am constantly looking to increase my knowledge and grow professionally. I am attentive to small details, which leads me to be a perfectionist with my work. Is simple, I love what I do.
